@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Shriram" max_length="40" name="shriram" type="collection">
+        <element label="Enna" max_length="40" name="enna" type="integer"/>
+    </element>
+</database>

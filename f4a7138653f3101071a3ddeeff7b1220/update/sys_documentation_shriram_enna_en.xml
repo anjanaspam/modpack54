@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="enna" label="Enna" language="en" table="shriram">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>enna</element>
+            <help/>
+            <hint/>
+            <label>Enna</label>
+            <language>en</language>
+            <name>shriram</name>
+            <plural>Ennas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-13 13:52:39</sys_created_on>
+            <sys_id>31171b4653f3101071a3ddeeff7b12ba</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Enna</sys_name>
+            <sys_package display_value="glob9" source="11f6174653f3101071a3ddeeff7b127c">11f6174653f3101071a3ddeeff7b127c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="glob10">f4a7138653f3101071a3ddeeff7b1220</sys_scope>
+            <sys_update_name>sys_documentation_shriram_enna_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-13 14:00:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="glob10">f4a7138653f3101071a3ddeeff7b1220</claim_owner_scope>
+        <claim_timestamp>1752243070a0000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_shriram_enna_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>glob10</previous_claim_name>
+        <previous_claim_scope>f4a7138653f3101071a3ddeeff7b1220</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 14:00:19</sys_created_on>
+        <sys_id>ced8938653f3101071a3ddeeff7b1261</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 14:00:19</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="glob10">f4a7138653f3101071a3ddeeff7b1220</claim_owner_scope>
+        <claim_timestamp>175224306f10000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_shriram_enna_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>glob9</previous_claim_name>
+        <previous_claim_scope>11f6174653f3101071a3ddeeff7b127c</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 14:00:19</sys_created_on>
+        <sys_id>82d8938653f3101071a3ddeeff7b1262</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 14:00:19</sys_updated_on>
+    </sys_claim>
+</record_update>
